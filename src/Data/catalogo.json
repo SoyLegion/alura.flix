@@ -1,0 +1,46 @@
+{
+  "cards": {
+    "video1": {
+      "id": 1,
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhse0oxlqSW5wurtyIecImJkvVM.jpg",
+      "sinopsis": "Cuando un cómico en apuros tiene un gesto amable con una mujer vulnerable, desencadena una obsesión enfermiza que amenaza con destrozar la vida de ambos.",
+      "titulo": "Bebé reno",
+      "url": "https://www.youtube.com/watch?v=zwWVSrLK10c"
+    },
+    "video2": {
+      "id": 2,
+      "imagen": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cSAN6ofLRwRiuwOHYD81p4k6Yks.jpg",
+      "sinopsis": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar The Boys, decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
+      "titulo": "The boys",
+      "url": "https://www.youtube.com/watch?v=EzFXDvC-EwM"
+    },
+    "video3": {
+      "id": 3,
+      "imagen": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
+      "sinopsis": "Basado en una de las sagas de videojuegos más importantes de todos los tiempos, Fallout es la historia de los que tienen y de los que no tienen en un mundo en el que prácticamente no queda nada para tener. 200 años después del apocalipsis, los apacibles habitantes de los refugios de lujo se ven obligados a regresar al infierno irradiado que dejaron sus antepasados - y se sorprenden al descubrir que les espera un universo increíblemente complejo, alegremente extraño y muy violento. De los productores ejecutivos Jonathan Nolan y Lisa Joy, los creadores de Westworld, protagonizada por Ella Purnell, Aaron Moten, Walton Goggins y más.",
+      "titulo": "Fallout",
+      "url": "https://www.youtube.com/watch?v=5QfetNo5-V0"
+    },
+    "video4": {
+      "id": 4,
+      "imagen": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+      "sinopsis": "Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen.",
+      "titulo": "The joker",
+      "url": "https://www.youtube.com/watch?v=nK1DPGkyrEY"
+    },
+    "video5": {
+      "id": 5,
+      "imagen": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fizWysTX7KN0xV1Khy92U3JnQkN.jpg",
+      "sinopsis": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "titulo": "El cuento de la criada",
+      "url": "https://www.youtube.com/watch?v=8pyst8CGO-M"
+    },
+    "video6": {
+      "id": 6,
+      "imagen": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jcuKDFVcpEwBu8bAvTvmLKDNn2m.jpg",
+      "sinopsis": "David, un niño coreano-americano de 7 años, ve cómo su vida cambia, de la noche a la mañana, cuando su padre decide mudarse junto a toda su familia a una zona rural de Arkansas para abrir allí una granja, con el propósito de lograr alcanzar el sueño americano.",
+      "titulo": "Minari",
+      "url": "https://www.youtube.com/watch?v=4NTd5CdgfSk"
+    }
+  }
+}
